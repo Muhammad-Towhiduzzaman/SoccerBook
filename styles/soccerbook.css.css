@@ -18,6 +18,14 @@ body {
 .head-container {
   background-color: #2d25a0;
 }
+.main-h1{
+  color: orange;
+    text-align:left;
+    background: -webkit-linear-gradient(orange, yellow,gold,red);
+    text-emphasis-color: red;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
 /* navigation */
 nav li {
   list-style: none;
